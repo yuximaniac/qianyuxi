@@ -24,11 +24,11 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们相遇的第{{love_day3.DATA}}天 
+今天是我们相遇的第{{love_date3.DATA}}天 
 
-今天是我们恋爱的第{{love_day2.DATA}}天 
+今天是我们恋爱的第{{love_date2.DATA}}天 
 
-今天是我们结婚的第{{love_day1.DATA}}天 
+今天是我们结婚的第{{love_date1.DATA}}天 
 
 {{birthday1.DATA}} 
 
